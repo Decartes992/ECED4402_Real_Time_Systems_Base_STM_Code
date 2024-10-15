@@ -3,7 +3,7 @@
 This repository contains the base code for the labs in the ECED 4402 Real-Time Systems course. The code is designed for the STM32F411RE development board and is built using FreeRTOS for task management and real-time scheduling.
 
 The repository includes the foundational setup for:
--Using FreeRTOS on the STM board
+- Using FreeRTOS on the STM board
 
 I will build upon this base code to implement the various lab exercises, demonstrating my understanding of real-time task management, synchronization, and resource sharing on embedded systems.
 
